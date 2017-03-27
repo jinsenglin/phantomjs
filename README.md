@@ -1,0 +1,3 @@
+# USAGE
+
+phantomjs demo.js
